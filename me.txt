@@ -1,2 +1,2 @@
-abdul
+name
 abdul@gmail.com
